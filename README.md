@@ -119,23 +119,32 @@ The skill radar will be generated automatically from our own Python scripts.
 
 ### GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OG-shivam&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+<p align="center">
+  <img src="./assets/github-stats.svg" width="700" alt="GitHub statistics">
+</p>
 
-### Top Languages
+### Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OG-shivam&theme=dark&hide_border=true&layout=compact)
+<p align="center">
+  <img src="./assets/languages.svg" width="700" alt="Most used languages">
+</p>
 
 ### Contribution Streak
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=OG-shivam&theme=dark&hide_border=true)
+<p align="center">
+  <img src="./assets/streak.svg" width="700" alt="Contribution streak">
+</p>
 
 ---
 
 ## `~/` achievements
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=OG-shivam&theme=darkhub&no-frame=true&no-bg=true&margin-w=4)
+<p align="center">
+  <img src="./assets/trophies.svg" width="700" alt="GitHub achievements">
+</p>
 
 ---
+
 
 ## `~/` projects
 

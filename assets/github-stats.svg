@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+width="700" height="220"
+viewBox="0 0 700 220">
+
+<rect width="100%" height="100%" rx="12"
+fill="#0d1117" stroke="#30363d"/>
+
+<style>
+.title {
+    font: bold 25px sans-serif;
+    fill: #58a6ff;
+}
+
+.label {
+    font: 17px sans-serif;
+    fill: #c9d1d9;
+}
+
+.value {
+    font: bold 17px sans-serif;
+    fill: #f0f6fc;
+}
+
+.small {
+    font: 13px sans-serif;
+    fill: #8b949e;
+}
+</style>
+
+<text x="40" y="45" class="title">GitHub Stats</text>
+
+
+            <text x="40" y="95" class="label">Total contributions</text>
+            <text x="650" y="95" text-anchor="end" class="value">486</text>
+            
+            <text x="40" y="137" class="label">Repositories</text>
+            <text x="650" y="137" text-anchor="end" class="value">11</text>
+            
+            <text x="40" y="179" class="label">Commits</text>
+            <text x="650" y="179" text-anchor="end" class="value">342</text>
+            
+            <text x="40" y="221" class="label">Pull requests</text>
+            <text x="650" y="221" text-anchor="end" class="value">18</text>
+            
+
+<text x="40" y="205" class="small">
+Demo profile card • generated locally
+</text>
+
+</svg>
