@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="./assets/portrait.svg" width="700" alt="Animated dot-matrix portrait">
+</p>
+
+---
+
 # `~/` whoami
 
 > **Shivam Kumar Singh** — CSE student at IIIT Manipur, exploring AI, software development, and problem solving.
