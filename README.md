@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="./assets/portrait.svg" width="700" alt="Animated dot-matrix portrait">
+  <img
+    src="./assets/portrait.svg"
+    width="700"
+    alt="Animated colorful dot-matrix portrait"
+  >
 </p>
 
 ---
@@ -40,55 +44,112 @@ IIIT Manipur life, CSE basics, AI learning path, and Linux setup.
 
 [![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/s-hivam96.bsky.social)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/something.shivam)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-kumar-singh-80989a325)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/og-shivam)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivamkrsingh112@gmail.com)
 
 ---
 
 ## `~/` toolbox
 
+<table>
+<tr>
+
+<td valign="top" width="33%">
+
 ### Languages
 
-![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=A8B9CC)
+
+![C++](https://img.shields.io/badge/C%2B%2B-0D1117?style=for-the-badge&logo=cplusplus&logoColor=00599C)
+
+![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB)
+
+</td>
+
+<td valign="top" width="33%">
 
 ### Web
 
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26)
+
+![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6)
+
+</td>
+
+<td valign="top" width="33%">
 
 ### Tools
 
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
+
+![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF)
+
+![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624)
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## `~/` skill radar
+
+The skill radar will be generated automatically from our own Python scripts.
+
+| Technical Skills | Language Mix |
+|:---:|:---:|
+| 🚧 Coming soon | 🚧 Coming soon |
+
+---
+
+## `~/` contribution calendar
+
+> Contribution visualization will be added here.
+
+🚧 **Building this section next.**
 
 ---
 
 ## `~/` github
 
-GitHub statistics and contribution visualizations will be added here.
+### GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OG-shivam&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+
+### Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OG-shivam&theme=dark&hide_border=true&layout=compact)
+
+### Contribution Streak
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=OG-shivam&theme=dark&hide_border=true)
+
+---
+
+## `~/` achievements
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=OG-shivam&theme=darkhub&no-frame=true&no-bg=true&margin-w=4)
 
 ---
 
 ## `~/` projects
 
-Projects will be added here soon.
+> 🚧 **Projects section coming soon.**
 
----
-
-## `~/` currently learning
+This section will contain:
 
 ```text
-C++
-  ↓
-Python
-  ↓
-Data Structures & Algorithms
-  ↓
-AI / Machine Learning
-  ↓
-Data Science
+┌─────────────────────────────────┐
+│ Project                         │
+│                                 │
+│ Description                     │
+│ Tech stack                      │
+│                                 │
+│ GitHub →    Live Demo →         │
+└─────────────────────────────────┘
+
