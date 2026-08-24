@@ -32,11 +32,11 @@ C++, Python, AI basics, DBMS, Git/GitHub, and Linux.
 
 IIIT Manipur life, CSE basics, AI learning path, and Linux setup.
 
-### 🌐 Portfolio
+---
+
+## `~/` portfolio
 
 > 🚧 **Coming soon.**
->
-> A personal space for my projects, experiments, learning journey, and future work.
 
 ---
 
@@ -99,19 +99,21 @@ IIIT Manipur life, CSE basics, AI learning path, and Linux setup.
 
 ## `~/` skill radar
 
-The skill radar will be generated automatically from our own Python scripts.
+<p align="center">
+  <img
+    src="./assets/skill-radar.svg"
+    width="100%"
+    alt="Skill Radar and Language Mix"
+  >
+</p>
 
-| Technical Skills | Language Mix |
-|:---:|:---:|
-| 🚧 Coming soon | 🚧 Coming soon |
+> Personal skill overview — continuously improving.
 
 ---
 
 ## `~/` contribution calendar
 
-> Contribution visualization will be added here.
-
-🚧 **Building this section next.**
+> 🚧 **Contribution visualization will be added here.**
 
 ---
 
@@ -120,19 +122,31 @@ The skill radar will be generated automatically from our own Python scripts.
 ### GitHub Stats
 
 <p align="center">
-  <img src="./assets/github-stats.svg" width="700" alt="GitHub statistics">
+  <img
+    src="./assets/github-stats.svg"
+    width="700"
+    alt="GitHub statistics"
+  >
 </p>
 
 ### Most Used Languages
 
 <p align="center">
-  <img src="./assets/languages.svg" width="700" alt="Most used languages">
+  <img
+    src="./assets/languages.svg"
+    width="700"
+    alt="Most used languages"
+  >
 </p>
 
 ### Contribution Streak
 
 <p align="center">
-  <img src="./assets/streak.svg" width="700" alt="Contribution streak">
+  <img
+    src="./assets/streak.svg"
+    width="700"
+    alt="Contribution streak"
+  >
 </p>
 
 ---
@@ -140,25 +154,34 @@ The skill radar will be generated automatically from our own Python scripts.
 ## `~/` achievements
 
 <p align="center">
-  <img src="./assets/trophies.svg" width="700" alt="GitHub achievements">
+  <img
+    src="./assets/trophies.svg"
+    width="700"
+    alt="GitHub achievements"
+  >
 </p>
 
 ---
-
 
 ## `~/` projects
 
 > 🚧 **Projects section coming soon.**
 
-This section will contain:
+This section will contain my projects, experiments, and development work.
+
+---
+
+## `~/` currently learning
 
 ```text
-┌─────────────────────────────────┐
-│ Project                         │
-│                                 │
-│ Description                     │
-│ Tech stack                      │
-│                                 │
-│ GitHub →    Live Demo →         │
-└─────────────────────────────────┘
-
+C++
+ │
+ ├── Data Structures & Algorithms
+ │
+ ├── Python
+ │
+ ├── DBMS
+ │
+ ├── Artificial Intelligence
+ │
+ └── Data Science
