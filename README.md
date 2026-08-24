@@ -78,6 +78,10 @@ IIIT Manipur life, CSE basics, AI learning path, and Linux setup.
 
 ![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6)
 
+![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=339933)
+
 </td>
 
 <td valign="top" width="33%">
@@ -122,6 +126,7 @@ IIIT Manipur life, CSE basics, AI learning path, and Linux setup.
 </p>
 
 > Contribution activity visualization.
+
 ---
 
 ## `~/` github
@@ -172,9 +177,57 @@ IIIT Manipur life, CSE basics, AI learning path, and Linux setup.
 
 ## `~/` projects
 
-> 🚧 **Projects section coming soon.**
+<table>
+<tr>
 
-This section will contain my projects, experiments, and development work.
+<td width="50%" valign="top">
+
+### 🎬 Netflix Clone
+
+A Netflix-inspired streaming platform built to practice frontend development, API integration, responsive UI, and component-based development.
+
+**Tech:** HTML · CSS · JavaScript · API
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🛒 Amazon Clone
+
+An Amazon-inspired e-commerce interface created to practice frontend development, layouts, product interfaces, and API-based data handling.
+
+**Tech:** HTML · CSS · JavaScript · API
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 📊 Data Science Projects
+
+Data analysis and machine-learning experiments focused on Python, data processing, visualization, and exploring practical AI concepts.
+
+**Tech:** Python · Pandas · NumPy · Matplotlib · Machine Learning
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🧠 DSA & LeetCode
+
+My ongoing problem-solving journey covering algorithms, data structures, and competitive programming practice.
+
+**Progress:** 100+ problems solved
+
+**Focus:** C++ · DSA · Problem Solving
+
+</td>
+
+</tr>
+</table>
 
 ---
 
