@@ -113,8 +113,15 @@ IIIT Manipur life, CSE basics, AI learning path, and Linux setup.
 
 ## `~/` contribution calendar
 
-> 🚧 **Contribution visualization will be added here.**
+<p align="center">
+  <img
+    src="./assets/contribution-calendar.svg"
+    width="100%"
+    alt="Contribution calendar"
+  >
+</p>
 
+> Contribution activity visualization.
 ---
 
 ## `~/` github
